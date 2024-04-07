@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+.card {
+    box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
+    border-radius: 20px;
+    background-color: black;
+    width: 450px;
+}
+.start {
+    background-color: #000000;
+    color: rgb(81, 103, 164);
+}
+.btn {
+    border-radius: 10px;
+}
+.mode {
+    background-color: rgb(81, 103, 164);
+}
+.device {
+    color: rgb(81, 103, 164);
+}
+.line {
+    background-color: rgb(124, 157, 247);
+}
+/* button:active {
+    background: rgb(124, 157, 247);
+}
+button:focus {
+    background: rgb(124, 157, 247);
+} */
+.bgDark {
+    background-color: white !important;
+}
+.btnone {
+    background-color: rgb(124, 157, 247) !important;
+    color: black !important;
+}
